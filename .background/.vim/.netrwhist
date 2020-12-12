@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/etc/acpi/actions'
+let g:netrw_dirhist_7='/etc/acpi/events'
+let g:netrw_dirhist_6='/home/zuper/.config/picom'
+let g:netrw_dirhist_5='/home/zuper/.config/bspwm'
+let g:netrw_dirhist_4='/home/zuper/.config/awesome'
+let g:netrw_dirhist_3='/home/zuper/.config/sxhkd'
+let g:netrw_dirhist_2='/home/zuper/.config/bspwm'
+let g:netrw_dirhist_1='/home/zuper/.config'
+let g:netrw_dirhist_0='/home/zuper/.config/bspwm'
+let g:netrw_dirhist_9='/home/zuper/.config'

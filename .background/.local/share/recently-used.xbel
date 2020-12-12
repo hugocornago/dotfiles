@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/zuper/.background/hollow.jpg" added="2020-11-29T16:07:37.423248Z" modified="2020-11-29T16:08:35.444767Z" visited="2020-11-29T16:07:37.423249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2020-11-29T16:08:35.444764Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zuper/Downloads/burpsuite_community_linux_v2020_11_3.sh" added="2020-12-06T16:37:08.969383Z" modified="2020-12-06T16:37:08.969390Z" visited="2020-12-06T16:37:08.969383Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-06T16:37:08.969386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zuper/Downloads/Win10_20H2_v2_English_x64.iso" added="2020-12-11T14:31:33.283883Z" modified="2020-12-11T14:31:33.283888Z" visited="2020-12-11T14:31:33.283884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-11T14:31:33.283885Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zuper/.background/.jpg" added="2020-12-12T09:46:07.578875Z" modified="2020-12-12T09:46:08.052120Z" visited="2020-12-12T09:46:07.578876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-12T09:46:08.052115Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zuper/.background/cafe.jpg" added="2020-12-12T09:46:36.069839Z" modified="2020-12-12T09:49:54.637672Z" visited="2020-12-12T09:46:36.069840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-12T09:49:54.637667Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/zuper/Downloads/wallpaperflare.com_wallpaper.jpg" added="2020-12-12T09:47:27.359740Z" modified="2020-12-12T09:47:27.359747Z" visited="2020-12-12T09:47:27.359741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-12T09:47:27.359743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
